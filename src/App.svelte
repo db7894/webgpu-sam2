@@ -6,7 +6,7 @@
 </script>
 
 <div class="container">
-  <h1 style="font-weight: 600;">Segment Anything 2, in WebGPU</h1>
+  <h1 style="font-weight: 600;">Detectron 2, in WebGPU</h1>
   <!-- TK - send blog post before shipping!-->
   <p>
     Model by <a href="https://github.com/facebookresearch/segment-anything-2">Facebook Research</a>. Works in Chrome version &gt;=113, with <code>chrome://flags/#enable-unsafe-webgpu</code> enabled. For use in Firefox and Safari, check the official <a href="https://github.com/gpuweb/gpuweb/wiki/Implementation-Status">WebGPU implementation status</a>.
